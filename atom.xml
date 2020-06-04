@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://first-quark.github.io</id>
-    <title>Epifall&apos;s Blog</title>
-    <updated>2020-06-04T14:22:30.013Z</updated>
+    <title>Quark&apos;s Blog</title>
+    <updated>2020-06-04T14:23:35.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://first-quark.github.io"/>
     <link rel="self" href="https://first-quark.github.io/atom.xml"/>
-    <subtitle>一位无名之人的小小博客</subtitle>
+    <subtitle>向麦克老人三呼夸克！</subtitle>
     <logo>https://first-quark.github.io/images/avatar.png</logo>
     <icon>https://first-quark.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Epifall&apos;s Blog</rights>
+    <rights>All rights reserved 2020, Quark&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Finnegan's Wake]]></title>
         <id>https://first-quark.github.io/post/finnegans-wake/</id>
