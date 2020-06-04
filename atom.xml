@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://quark.github.io</id>
+    <id>https://first-quark.github.io</id>
     <title>Epifall&apos;s Blog</title>
-    <updated>2020-06-04T13:47:43.060Z</updated>
+    <updated>2020-06-04T13:59:10.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://quark.github.io"/>
-    <link rel="self" href="https://quark.github.io/atom.xml"/>
+    <link rel="alternate" href="https://first-quark.github.io"/>
+    <link rel="self" href="https://first-quark.github.io/atom.xml"/>
     <subtitle>一位无名之人的小小博客</subtitle>
-    <logo>https://quark.github.io/images/avatar.png</logo>
-    <icon>https://quark.github.io/favicon.ico</icon>
+    <logo>https://first-quark.github.io/images/avatar.png</logo>
+    <icon>https://first-quark.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Epifall&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Markdown Doc]]></title>
-        <id>https://quark.github.io/post/markdown/</id>
-        <link href="https://quark.github.io/post/markdown/">
+        <id>https://first-quark.github.io/post/markdown/</id>
+        <link href="https://first-quark.github.io/post/markdown/">
         </link>
         <updated>2020-05-31T11:54:21.000Z</updated>
         <content type="html"><![CDATA[<p>＃欢迎来到Epifall！欢迎来到Epifall！</p>
@@ -218,8 +218,8 @@ $$
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://quark.github.io/post/hello-gridea/</id>
-        <link href="https://quark.github.io/post/hello-gridea/">
+        <id>https://first-quark.github.io/post/hello-gridea/</id>
+        <link href="https://first-quark.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
