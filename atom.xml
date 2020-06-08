@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://first-quark.github.io</id>
     <title>Quark&apos;s Blog</title>
-    <updated>2020-06-04T14:54:36.146Z</updated>
+    <updated>2020-06-08T10:25:22.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://first-quark.github.io"/>
     <link rel="self" href="https://first-quark.github.io/atom.xml"/>
@@ -10,6 +10,46 @@
     <logo>https://first-quark.github.io/images/avatar.png</logo>
     <icon>https://first-quark.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Quark&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[6.8日考试成绩总览（数学）]]></title>
+        <id>https://first-quark.github.io/post/6.8-math/</id>
+        <link href="https://first-quark.github.io/post/6.8-math/">
+        </link>
+        <updated>2020-06-08T10:06:41.000Z</updated>
+        <content type="html"><![CDATA[<p>6.8日下午第一节课数学考试成绩一览</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">周凯旋</th>
+<th style="text-align:center">王飞翔</th>
+<th style="text-align:center">赵彤</th>
+<th style="text-align:center">王清逸</th>
+<th style="text-align:center">史伊璇</th>
+<th style="text-align:center">曹鑫雷</th>
+<th style="text-align:center">余嘉霖</th>
+<th style="text-align:center">吴明辉</th>
+<th style="text-align:center">崔子扬</th>
+<th style="text-align:center">平均分</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><strong>96</strong></td>
+<td style="text-align:center"><strong>92</strong></td>
+<td style="text-align:center"><strong>88</strong></td>
+<td style="text-align:center"><strong>78</strong></td>
+<td style="text-align:center"><strong>71</strong></td>
+<td style="text-align:center"><strong>61</strong></td>
+<td style="text-align:center"><strong>28</strong></td>
+<td style="text-align:center"><strong>24</strong></td>
+<td style="text-align:center"><strong>20</strong></td>
+<td style="text-align:center"><strong>平均分 62</strong></td>
+</tr>
+</tbody>
+</table>
+<p>部分不及格同学<strong>拉分严重</strong>，家长要注意了！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6.1日会议要点]]></title>
         <id>https://first-quark.github.io/post/61-ri-hui-yi-yao-dian/</id>
